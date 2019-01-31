@@ -1,12 +1,14 @@
 package main;
 
+import media.Television;
+import media.Radio;
+
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
-        // TODO code application logic here
+        Television Panasonic = new Television();
+  
     }
     
 }
